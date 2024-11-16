@@ -1,1 +1,1 @@
-News of this repository
+news
